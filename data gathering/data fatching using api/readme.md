@@ -4,5 +4,6 @@ finding api data : tmdb api
 
 crome extension : json viewer, json formater
 
-For api link : Rapidapi.com
+For api link : Rapidapi.com, 
+For api link : devresourse.ocm
 
